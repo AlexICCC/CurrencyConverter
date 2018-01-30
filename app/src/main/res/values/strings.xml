@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <!-- Intent Service -->
+    <string name="is_error_no_internet">Нет интернета, невозможно обновить курс валют</string>
+    <string name="is_error_network">Ошибка загрузки файла</string>
+    <string name="is_error_parsing">Ошибка чтения файла</string>
+    <string name="is_success">Успешно обновлено</string>
+
+    <!-- ConverterFragment -->
+    <string name="cf_last_update">Курс валют на: %1$s</string>
+
+    <!-- DialogSearch -->
+    <string name="sd_title">Выберите валюту</string>
+
+
+
+</resources>
